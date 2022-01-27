@@ -9,7 +9,7 @@ A simple react pagination function.
 1. Clone this repository.
 
 ```
-git clone git@github.com:coffmanjrp/react-sinple-pagination.git
+git clone git@github.com:coffmanjrp/react-simple-pagination.git
 ```
 
 Or download the zip file.
